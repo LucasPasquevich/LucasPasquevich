@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**LucasPasquevich/LucasPasquevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[personal]
+name = 'Lucas Pasquevich'
+city = 'La Plata, Argentina'
+email = 'Lucaspasqueunlp@gmail.com'
+instagram = 
 
-Here are some ideas to get you started:
+[professional]
+currently-employed = true
+title = 'Software Development Engineer'
+employer = 'MathWorks Inc.'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'functional-programming',
+  'linux',
+  'open-source',
+]
+programming-languages = [
+  'c/cpp',
+  'python',
+  'unity/c#',
+  'rust',
+  'go',
+]
+
