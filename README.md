@@ -21,9 +21,7 @@ undergraduate_student  = 'Lic. in Astronomy, UNLP'
 
 
 [bio]
-categories = [
-  'generalist',
-]
+
 interests = [
   'Data_Science',
   'Compact_Objets',
